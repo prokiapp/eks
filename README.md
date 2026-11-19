@@ -1,4 +1,4 @@
-[proki (3).html](https://github.com/user-attachments/files/35064264/proki.3.html)
+(https://github.com/user-attachments/files/35064264/proki.3.html)
 <!doctype html>
 <html lang="es">
 <head>
