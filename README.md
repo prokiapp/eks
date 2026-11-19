@@ -1,5 +1,5 @@
 Proki 
-
+Aplicación para combatir la procrastinación y mejorar los hábitos.
 <html lang="es">
 <head>
 <meta charset="utf-8">
