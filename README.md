@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/35064264/proki.3.html)
+Aplicación para combatir la procrastinación y mejorar los hábitos.
 <!doctype html>
 <html lang="es">
 <head>
