@@ -1,5 +1,4 @@
 Aplicación para combatir la procrastinación y mejorar los hábitos.
-<!doctype html>
 <html lang="es">
 <head>
 <meta charset="utf-8">
